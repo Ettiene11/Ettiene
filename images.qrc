@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/w_pawn.png</file>
+        <file>img/b_bishop.png</file>
+        <file>img/b_king.png</file>
+        <file>img/b_knight.png</file>
+        <file>img/b_pawn.png</file>
+        <file>img/b_queen.png</file>
+        <file>img/b_rook.png</file>
+        <file>img/board.png</file>
+        <file>img/chess_background.jpg</file>
+        <file>img/possible_move.png</file>
+        <file>img/w_bishop.png</file>
+        <file>img/w_king.png</file>
+        <file>img/w_knight.png</file>
+        <file>img/w_queen.png</file>
+        <file>img/w_rook.png</file>
+        <file>img/frame.png</file>
+        <file>textfiles/scores.txt</file>
+        <file>vids/Draw.gif</file>
+        <file>vids/Lose.gif</file>
+        <file>vids/Wait.gif</file>
+        <file>vids/Welcome.gif</file>
+        <file>vids/Win.gif</file>
+        <file>audio/move-self.wav</file>
+        <file>audio/notify.wav</file>
+        <file>audio/capture.wav</file>
+        <file>stockfish.exe</file>
+        <file>textfiles/stockfish.exe</file>
+        <file>move-self.wav</file>
+        <file>notify.wav</file>
+        <file>capture.wav</file>
+        <file>Draw.gif</file>
+        <file>Lose.gif</file>
+        <file>Wait.gif</file>
+        <file>Welcome.gif</file>
+        <file>Win.gif</file>
+    </qresource>
+</RCC>
